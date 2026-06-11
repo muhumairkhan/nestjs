@@ -37,4 +37,8 @@ export class ProfilesService {
         return this.posts.filter(post => post.id==id);
     }
 
+    remove(id: number) {
+        
+    }
+
 }
