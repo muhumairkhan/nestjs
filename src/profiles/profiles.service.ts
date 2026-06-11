@@ -30,7 +30,13 @@ export class ProfilesService {
                 id: 4,
                 title: "Post 4",
                 content: "Post 4 content"
-            }
+            },
+            {
+                id: 5,
+                title: "Post 5",
+                content: "Post 5 content"
+            },
+            
         ];
     }
 
